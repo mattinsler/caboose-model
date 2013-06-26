@@ -24,5 +24,3 @@ Caboose.generators.add {
       """
     )
 }
-
-Caboose.cli
